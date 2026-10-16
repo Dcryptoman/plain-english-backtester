@@ -1,0 +1,10 @@
+# Install with:  pip install -r requirements.txt
+anthropic        # talks to Claude
+yfinance         # free daily prices from Yahoo Finance (no key needed)
+pandas           # price tables and indicator maths
+numpy            # Monte Carlo maths
+pydantic         # the strict strategy "rulebook" format
+python-dotenv    # loads your API key from the .env file
+streamlit        # the web version (app_streamlit.py)
+plotly           # interactive charts in the web version
+pytest           # runs the engine tests (python -m pytest)
