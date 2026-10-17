@@ -4,6 +4,8 @@
 
 > *"Buy Bitcoin when it breaks above its 20-day high, stop 2 ATR below, take profit at 3R."*
 
+![The web app backtesting that Bitcoin breakout: the rules the AI understood, the robustness score, the verdict, account growth vs buy-and-hold, every trade on the chart, and the Monte Carlo luck check](docs/screenshot.png)
+
 Type that and the app:
 
 1. **Understands it.** Claude turns your sentence into a strict rulebook and shows it back to you, along with every assumption it made (which market, how many years, which kind of moving average).
